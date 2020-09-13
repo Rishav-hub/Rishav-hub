@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Rishav Dash  👋
 
-<!--
-**Rishav-hub/Rishav-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My website [portfolio][mywebsite]!
+- My [blogpost][myblog]!!yaas
+## I'm a Student and AI Enthusiast!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying in a [RAIT][website]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other AI enthusiast
+- 🥅 2020 Goals: Learn more about concepts of Data Science
+- ⚡ Fun fact: I love to Sing and play football
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="intruder.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][mywebsite]
+[<img align="left" alt="Rishav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rishav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
+
+
+---
+
+[website]: http://www.dypatil.edu/mumbai/rait/
+[instagram]: https://www.instagram.com/rishav.dash/
+[linkedin]: https://www.linkedin.com/in/rishav-dash-4b1b84189/
+[mywebsite]:https://9930046.wixsite.com/intruder
+[myblog]: https://9930046.wixsite.com/intruder/blog
