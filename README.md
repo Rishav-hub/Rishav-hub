@@ -18,10 +18,7 @@
 
 [<img align="left" alt="Rishav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
 
-
----
 
 [website]: http://www.dypatil.edu/mumbai/rait/
 [instagram]: https://www.instagram.com/rishav.dash/
