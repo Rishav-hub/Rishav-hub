@@ -4,7 +4,7 @@
 - My [blogpost][myblog]!!yaas
 ## I'm a Student and AI Enthusiast!
 
-- 🔭 I’m currently studying in a [RAIT][website]!
+- 🔭 I’m currently studying in [RAIT][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other AI enthusiast
 - 🥅 2020 Goals: Learn more about concepts of Data Science
