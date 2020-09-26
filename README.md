@@ -10,6 +10,10 @@
 - 🥅 2020 Goals: Learn more about concepts of Data Science
 - ⚡ Fun fact: I love to Sing and play football
 
+
+ ![Rishav's github stats](https://github-readme-stats.vercel.app/api?username=Rishav-hub&count_private=true&show_icons=true&theme=dark)
+
+
 ### Connect with me:
 
 [<img align="left" alt="intruder.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][mywebsite]
@@ -17,6 +21,7 @@
 [<img align="left" alt="Rishav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="Rishav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 
 
