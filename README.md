@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying in [RAIT][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other AI enthusiast
-- 🥅 2020 Goals: Learn more about concepts of Data Science
+- 🥅 2021 Goals: Learn more about concepts of Data Science
 - ⚡ Fun fact: I love to Sing and play football
 
 
