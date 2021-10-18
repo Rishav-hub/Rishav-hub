@@ -1,7 +1,7 @@
 ### Hi there, I'm Rishav Dash  👋
 
 - My website [portfolio][mywebsite]!
-- My [blogpost][myblog]!!yaas
+
 ## I'm a Student and AI Enthusiast!
 
 - 🔭 I’m currently studying in [RAIT][website]!
@@ -28,5 +28,5 @@
 [website]: http://www.dypatil.edu/mumbai/rait/
 [instagram]: https://www.instagram.com/rishav.dash/
 [linkedin]: https://www.linkedin.com/in/rishav-dash-4b1b84189/
-[mywebsite]:https://9930046.wixsite.com/intruder
+[mywebsite]:https://rishav-hub.github.io/Portfolio/
 [myblog]: https://9930046.wixsite.com/intruder/blog
